@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any interesting idea
 - 📫 How to reach me lokisausievos@gmail.com
-- 😄 Pronouns: õ_O
+- 😄 Pronouns: õ_o
